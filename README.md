@@ -1,4 +1,5 @@
 # Start-Solution
+I have just include the resource and the routes folder to preview the project and my source code
 A practice project with PHP.  The aim of this project is to create the View to Route relation in Laravel.  Part of MVC architecture of Laravel
 Here is some of the snapeshorts releted this project.
 
